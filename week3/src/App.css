@@ -142,6 +142,11 @@ button {
   line-height: 1.5;
 }
 
+.post-actions .like-button.liked svg {
+  fill: #ed4956;
+  stroke: #ed4956;
+}
+
 @media (max-width: 520px) {
   .page {
     padding: 0;
